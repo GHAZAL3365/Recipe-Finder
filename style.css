@@ -156,4 +156,15 @@ ul {
   .container {
     font-size: 14px;
   }
+
+  .search-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2em;
+  }
+
+  .search-container button {
+    padding-block: 1em;
+  }
 }
